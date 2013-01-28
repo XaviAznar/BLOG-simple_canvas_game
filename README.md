@@ -2,7 +2,7 @@
 
 [Matt Hackett](https://twitter.com/#!/richtaur) publicó [Cómo hacer un sencillo juego en HTML5 Canvas](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) en agosto del 2011. El tutorial explica cómo construir un *juego* **muy básico** usando Javascript y el elemento `canvas`. El juego consiste en un guerrero que mata indefensos goblins sin piedad y tiene un aspecto como:
 
-
+![¡Juego en marcha!](goblins_cazados.jpg)
 
 He traducido el artículo original de Matt al castellano, añadiendo algunas modificaciones sugeridas en los comentarios. 
 
